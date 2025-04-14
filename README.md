@@ -6,10 +6,6 @@
 
 ###
 
-<div align="center"> <img src="https://leetcard.jacoblin.cool/znimator?theme=dark"> </div>
-
-###
-
 <h3 align="center">Tools and Languages</h3>
 
 ###
