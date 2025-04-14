@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm a "wanna be" game developer from Russia, currently a Computer Science Student (Second year) looking for job</h4>
+<h4 align="center">I'm a "wanna be" game developer from Russia, currently a Computer Science Student (Second year) looking for job</h4>
 
 ###
 
